@@ -1,11 +1,9 @@
 # 👋 Hi, I'm Prateek
 
-🎓 Second-year Computer Science student at MNNIT Allahabad  
-💻 Backend developer focused on AI systems, automation, and FastAPI-based applications   
-🧠 I build real, usable software — from intelligent document systems to secure desktop apps   
-🎯 Focused on solving real-world problems through clean, scalable systems   
-
-  🎮 Casual gamer • 🎧 Codes best with music on  
+🎓 Second-year Computer Science student at MNNIT Allahabad
+💻 AI Backend Developer specializing in FastAPI, LangGraph, and Agentic AI systems
+🧠 Building multi-agent platforms, memory frameworks, and AI automation tools
+🚀 Passionate about scalable AI infrastructure and real-world software engineering 
 
 ---
 
