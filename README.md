@@ -70,15 +70,14 @@
 
 ## 🛠️ Featured Projects
 
-### 🔹 AI Creative Director — Multi-Agent AI Media Orchestration Platform
+### 🔹 7LayerMem — Persistent Memory Framework for AI Agents
 
-**Production-oriented AI system for automated advertising campaign generation**
+**Production-ready multi-layer memory architecture for long-running AI systems**
 
-* Built a compound **AI orchestration platform** that transforms raw campaign ideas, landing pages, or product descriptions into structured creative briefs, visual specifications, and coordinated image-generation workflows
-* Designed a modular **LangGraph-based multi-agent architecture** where specialized agents perform campaign analysis, brand extraction, creative planning, prompt engineering, and asset orchestration
-* Engineered an asynchronous backend using **FastAPI, Celery, Redis, and PostgreSQL**, enabling scalable execution of long-running AI workflows with background task processing
-* Implemented production-ready workflow management with job tracking, execution history, and modular agent pipelines for reliable media generation
-* **Tech:** FastAPI · LangGraph · LangChain · PostgreSQL · Redis · Celery · SQLAlchemy · Gemini · Python
+* Built a **7-layer memory framework** enabling AI agents to retain persistent context across conversations, knowledge, entities, workflows, and tool interactions through a unified `remember()` / `recall()` API.
+* Engineered intelligent memory routing with a hybrid storage architecture using **SQLite, ChromaDB, and optional Neo4j** for semantic retrieval and long-term persistence.
+* Integrated a **hybrid RAG pipeline** with document ingestion, BM25 + vector search, and contextual retrieval for memory-grounded AI applications.
+* **Tech:** Python · ChromaDB · SQLite · Neo4j · SentenceTransformers · BM25 · RAG
 
 ---
 
@@ -86,23 +85,21 @@
 
 **Privacy-first local agent framework with extensible capabilities**
 
-* Developed a modular AI assistant framework capable of integrating **custom tools, skills, memory modules, and sub-agents** without relying on proprietary agent platforms
-* Implemented support for **Model Context Protocol (MCP)** acommunication, enabling interoperability between distributed AI systems
-* Designed an extensible plugin architecture allowing independent capabilities to be dynamically attached to the assistant
-* Built asynchronous communication layers with structured task execution, event queues, and standardized agent messaging
-* **Tech:** FastAPI · Python · MCP · A2A · LangChain · AsyncIO · WebSockets
+* Developed a modular AI assistant framework supporting **custom tools, skills, memory modules, and plugin-based extensions**.
+* Implemented **Model Context Protocol (MCP)** support with asynchronous task execution and standardized agent communication.
+* Designed an extensible architecture for building local, privacy-focused AI assistants without proprietary platforms.
+* **Tech:** Python · FastAPI · MCP · LangChain · AsyncIO
 
 ---
 
 ### 🔹 Document Intelligence Engine
 
-**Production-ready Retrieval-Augmented Generation (RAG) system**
+**Production-ready Retrieval-Augmented Generation (RAG) platform**
 
-* Built a complete document intelligence pipeline supporting **semantic chunking, embedding generation, vector indexing, retrieval, reranking, and grounded question answering**
-* Implemented local embedding generation using **Sentence Transformers**, enabling cost-efficient semantic search without external embedding APIs
-* Designed scalable vector retrieval using **FAISS/Pinecone**, supporting efficient similarity search across multiple document collections
-* Engineered modular ingestion pipelines for incremental indexing and asynchronous document processing using FastAPI
-* **Tech:** FastAPI · Python · FAISS · Pinecone · SentenceTransformers · LangChain · Gemini
+* Built a complete **RAG pipeline** with document ingestion, semantic chunking, embeddings, vector indexing, retrieval, and grounded question answering.
+* Implemented efficient semantic search using **Sentence Transformers** with **FAISS/Pinecone** for scalable document retrieval.
+* Designed asynchronous document processing and modular indexing pipelines using FastAPI.
+* **Tech:** Python · FastAPI · FAISS · Pinecone · SentenceTransformers · LangChain
 
 ---
 
@@ -110,13 +107,11 @@
 
 **Deep learning-based agricultural disease classification platform**
 
-* Trained a convolutional neural network capable of classifying **38 categories of plant diseases** using a dataset of more than **70,000 labeled images**
-* Built an end-to-end machine learning pipeline covering dataset preprocessing, augmentation, model training, evaluation, and inference
-* Optimized training for Apple Silicon using **TensorFlow Metal**, improving hardware utilization on M-series processors
-* Implemented robust preprocessing and regularization techniques to improve model generalization across unseen samples
-* **Tech:** TensorFlow · Keras · Python · TensorFlow Metal · NumPy
+* Trained a CNN to classify **38 plant disease categories** from a dataset of **70,000+ images**.
+* Built an end-to-end machine learning pipeline covering preprocessing, augmentation, training, evaluation, and inference.
+* Optimized training for **Apple Silicon** using TensorFlow Metal to improve performance.
+* **Tech:** TensorFlow · Keras · Python · TensorFlow Metal
 
----
 
 > Currently building production-grade AI infrastructure focused on agent orchestration, media generation, and autonomous AI systems.
 
