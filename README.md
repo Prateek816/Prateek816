@@ -17,6 +17,7 @@
 | **SoftAthalon** — Avishkar, MNNIT | 🥈 2st Place |DSA+Technical interview|Only for 1st year CSE |
 | **DevorDie** — Powersurge, Avishkar | 🥈 2nd Place | Among all 1st-year teams |
 | **Robo Gesture Rally** — Avishkar, MNNIT | 🥈 2nd Place | Robotics · Orientation-controlled robot |
+| **CodeClash** - Avishkar, MNNIT | ✨Special Mention | Competitive Programming Event |
 
 ---
 
