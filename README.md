@@ -77,12 +77,13 @@
 
 ---
 
-### 🔹 LangClaw — API-Free Personal AI Assistant Framework
+### 🔹 LangClaw — Autonomous AI Agent Framework
 
-* Developed a modular AI assistant framework supporting **custom tools, skills, memory modules, and plugin-based extensions**.
-* Implemented **Model Context Protocol (MCP)** support with asynchronous task execution and standardized agent communication.
-* Designed an extensible architecture for building local, privacy-focused AI assistants without proprietary platforms.
-* **Tech:** Python · FastAPI · MCP · LangChain · AsyncIO
+* Built an autonomous AI agent framework with **multi-provider LLM support**, persistent memory, hybrid RAG, and tool orchestration for long-running AI workflows.
+* Implemented a modular architecture featuring **30+ built-in skills**, dynamic skill creation, sub-agent delegation, scheduled tasks, and Telegram/REPL interfaces.
+* Engineered intelligent context management with conversation persistence, memory compaction, and per-session isolation for scalable agent execution.
+* **Tech:** Python · FastAPI · LangChain · ChromaDB · BM25 · Telegram API · AsyncIO
+
 
 ---
 
