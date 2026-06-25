@@ -72,8 +72,6 @@
 
 ### 🔹 7LayerMem — Persistent Memory Framework for AI Agents
 
-**Production-ready multi-layer memory architecture for long-running AI systems**
-
 * Built a **7-layer memory framework** enabling AI agents to retain persistent context across conversations, knowledge, entities, workflows, and tool interactions through a unified `remember()` / `recall()` API.
 * Engineered intelligent memory routing with a hybrid storage architecture using **SQLite, ChromaDB, and optional Neo4j** for semantic retrieval and long-term persistence.
 * Integrated a **hybrid RAG pipeline** with document ingestion, BM25 + vector search, and contextual retrieval for memory-grounded AI applications.
@@ -83,8 +81,6 @@
 
 ### 🔹 LangClaw — API-Free Personal AI Assistant Framework
 
-**Privacy-first local agent framework with extensible capabilities**
-
 * Developed a modular AI assistant framework supporting **custom tools, skills, memory modules, and plugin-based extensions**.
 * Implemented **Model Context Protocol (MCP)** support with asynchronous task execution and standardized agent communication.
 * Designed an extensible architecture for building local, privacy-focused AI assistants without proprietary platforms.
@@ -92,9 +88,16 @@
 
 ---
 
-### 🔹 Document Intelligence Engine
+### 🔹 Elevate AI — AI-Powered Career Development Platform
 
-**Production-ready Retrieval-Augmented Generation (RAG) platform**
+* Developed the platform's **AI layer**, to power resume analysis, career guidance, roadmap generation, and interview assistance.
+* Built **LangChain-based AI workflows** for context-aware career recommendations, personalized learning paths, and intelligent resume insights.
+* Implemented AI-powered modules for **skill gap analysis, interview question generation, and resource retrieval**, enabling personalized career development.
+* **Tech:** Python · FastAPI · LangChain · LangGraph · Tavily
+
+---
+
+### 🔹 Document Intelligence Engine
 
 * Built a complete **RAG pipeline** with document ingestion, semantic chunking, embeddings, vector indexing, retrieval, and grounded question answering.
 * Implemented efficient semantic search using **Sentence Transformers** with **FAISS/Pinecone** for scalable document retrieval.
@@ -105,13 +108,10 @@
 
 ### 🔹 Plant Disease Detection System
 
-**Deep learning-based agricultural disease classification platform**
-
 * Trained a CNN to classify **38 plant disease categories** from a dataset of **70,000+ images**.
 * Built an end-to-end machine learning pipeline covering preprocessing, augmentation, training, evaluation, and inference.
 * Optimized training for **Apple Silicon** using TensorFlow Metal to improve performance.
 * **Tech:** TensorFlow · Keras · Python · TensorFlow Metal
-
 
 > Currently building production-grade AI infrastructure focused on agent orchestration, media generation, and autonomous AI systems.
 
