@@ -15,7 +15,6 @@
 | **SoftAthalon** — Avishkar, MNNIT | 🥈 2st Place |DSA+Technical interview|Only for 1st year CSE |
 | **DevorDie** — Powersurge, Avishkar | 🥈 2nd Place | Among all 1st-year teams |
 | **Robo Gesture Rally** — Avishkar, MNNIT | 🥈 2nd Place | Robotics · Orientation-controlled robot |
-| **CodeClash** - Avishkar, MNNIT | ✨Special Mention | Competitive Programming Event |
 | **CodeFest - IICPC 2026** | Rank 2623 | Nationwide CP Contest (13,000+ participants) |
 | **Codeforces** |    -  | Pupil (1305 max) , Solved 400 + Questions |
 | **Leetcode** |    - | Solved 300+ Questions |
