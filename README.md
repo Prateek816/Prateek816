@@ -16,6 +16,9 @@
 | **DevorDie** — Powersurge, Avishkar | 🥈 2nd Place | Among all 1st-year teams |
 | **Robo Gesture Rally** — Avishkar, MNNIT | 🥈 2nd Place | Robotics · Orientation-controlled robot |
 | **CodeClash** - Avishkar, MNNIT | ✨Special Mention | Competitive Programming Event |
+| **Codeforces** |    -  | Pupil (1305 max) , Solved 400 + Questions |
+| **Leetcode** |    - | Solved 300+ Questions |
+| **CodeChef** |   - | 2 star⭐|
 
 ---
 
